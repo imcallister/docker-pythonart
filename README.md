@@ -7,6 +7,6 @@ Ready-to-run Jupyter applications in Docker with calysto ( http://calysto.github
 If you're familiar with Docker, have it configured, and know exactly what you'd like to run, this one-liner should work in most cases:
 
 ```
-docker run --name jupyterart -p 8888:8888 -v /Users/ianmcallister/Tooling/art/notebooks:/home/artist/work  imcallister/docker-pythonart
+docker run --name jupyterart -p 8888:8888 -v /Users/path/to/art/notebooks:/home/artist/work  imcallister/docker-pythonart
 ```
 
