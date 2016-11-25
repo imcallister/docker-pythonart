@@ -1,1 +1,4 @@
+jupyter==1.0.0
+CairoSVG==1.0.22
 calysto==1.0.1
+Pillow==3.4.1
